@@ -1,9 +1,9 @@
-=== Meegloo ===
+=== Tweet Embed ===
 Contributors: flamingtarball
-Tags: meegloo, socialnetworking, reporting, news, journalism, citizenjournalism, socialreporting
+Tags: twitter, oembed
 Requires at least: 2.0.0
-Tested up to: 3.2
-Stable tag: 0.1
+Tested up to: 3.3.1
+Stable tag: 0.1.1
 
 Easily embed Twitter posts into your blog
 
@@ -20,10 +20,13 @@ Just download the plugin from the WordPress directory or install it directly fro
 To install the plugin from the wordpress.org plugin directory:
 
 1. Download `tweet-embed.zip`,
-2. Unzip it and upload the `meegloo` folder to the `/wp-content/plugins/` directory
+2. Unzip it and upload the `tweet-embed` folder to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress,
 
 == Changelog ==
+
+= 0.1.1 =
+* Fixed naming issues in documentation
 
 = 0.1 =
 * Basic functionality implemented
